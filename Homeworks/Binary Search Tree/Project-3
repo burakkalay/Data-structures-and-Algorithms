@@ -1,0 +1,17 @@
+Project-3
+
+[7,5,1,8,3,6,0,9,4,2]
+
+1. Binary-Search-Tree Process
+
+Root=7
+
+Step 1 - 5 is the second element of the array. The Left side of the root has "5"
+Step 2 - 1 is the third element of the array. The Left side of the 5 has "1"
+Step 3 - 8 is the fourth element of the array. The Right side of the root has "8"
+Step 4 - 3 is the fifth element of the array. The Right side of the 1 has "3"
+Step 5 - 6 is the sixth element of the array. The Right side of the 5 has "6"
+Step 6 - 0 is the seventh element of the array. The Left side of the 1 has "0"
+Step 7 - 9 is the eighth element of the array. The Right side of the 8 has "9"
+Step 8 - 4 is the ninth element of the array. The Right side of the 3 has "4"
+Step 9 - 2 is the tenth (last) element of the array. The Left side of the 3 has "2"
