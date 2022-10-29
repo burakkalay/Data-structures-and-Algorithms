@@ -20,7 +20,7 @@ Fourth Step: [2,6,16,18,22,27]          n-3
 
 Total: n+(n-1)+(n-2)+(n-3) --> n*(n+1)/2 = (n^2+n)/2
 
-Big O: O(n^2)
+=> Big O: O(n^2)
 
 3. Time Complexity
 
